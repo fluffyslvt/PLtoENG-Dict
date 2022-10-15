@@ -1,0 +1,7 @@
+czerwony:red
+niebieski:blue
+zielony:green
+biały:white
+pies:dog
+kot:cat
+samochód:car
